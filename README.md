@@ -1,2 +1,2 @@
 # python-algortims
-PYTHON algoritm
+PYTHON algoritms
